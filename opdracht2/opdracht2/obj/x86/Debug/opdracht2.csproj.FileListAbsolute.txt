@@ -1,0 +1,14 @@
+F:\School\Periode G\GAOG1\opdracht2\opdracht2\opdracht2\obj\x86\Debug\opdracht2.csprojResolveAssemblyReference.cache
+F:\School\Periode G\GAOG1\opdracht2\opdracht2\opdracht2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\School\Periode G\GAOG1\opdracht2\opdracht2\opdracht2\bin\x86\Debug\Content\particles\blueSpark.xnb
+F:\School\Periode G\GAOG1\opdracht2\opdracht2\opdracht2\bin\x86\Debug\Content\particles\goldSpark.xnb
+F:\School\Periode G\GAOG1\opdracht2\opdracht2\opdracht2\bin\x86\Debug\Content\particles\greenSpark.xnb
+F:\School\Periode G\GAOG1\opdracht2\opdracht2\opdracht2\bin\x86\Debug\Content\particles\orangeSpark.xnb
+F:\School\Periode G\GAOG1\opdracht2\opdracht2\opdracht2\bin\x86\Debug\Content\particles\purpleSpark.xnb
+F:\School\Periode G\GAOG1\opdracht2\opdracht2\opdracht2\bin\x86\Debug\Content\particles\redSpark.xnb
+F:\School\Periode G\GAOG1\opdracht2\opdracht2\opdracht2\bin\x86\Debug\Content\particles\whiteSpark.xnb
+F:\School\Periode G\GAOG1\opdracht2\opdracht2\opdracht2\bin\x86\Debug\Content\particles\yellowSpark.xnb
+F:\School\Periode G\GAOG1\opdracht2\opdracht2\opdracht2\bin\x86\Debug\opdracht2.exe
+F:\School\Periode G\GAOG1\opdracht2\opdracht2\opdracht2\bin\x86\Debug\opdracht2.pdb
+F:\School\Periode G\GAOG1\opdracht2\opdracht2\opdracht2\obj\x86\Debug\opdracht2.exe
+F:\School\Periode G\GAOG1\opdracht2\opdracht2\opdracht2\obj\x86\Debug\opdracht2.pdb
